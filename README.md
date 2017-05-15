@@ -11,3 +11,9 @@ Berikut adalah tag dan syntax yang digunakan dalam membuat situs ini:
 
 ## About Me
 Saya student batch 9 di hacktiv8, biasa dipanggil Anto. Asal saya dari Jayapura.
+
+## Future Plans
+Rencana pengembangan berikutnya:
+- ...
+- ...
+- ...
